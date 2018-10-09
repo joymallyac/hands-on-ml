@@ -21,3 +21,5 @@ The parameters used to tune a machine learning model are called hyperparameter.
 
 
 For NLP, use SVM.
+
+graphviz is a package to visualize the decision tree.
